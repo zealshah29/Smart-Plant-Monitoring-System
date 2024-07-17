@@ -12,5 +12,11 @@ Developed an IoT-based system using ESP8266 NodeMCU and sensors to monitor envir
 Technologies: IoT, ESP8266 NodeMCU, Soil Moisture Sensor, Temperature Sensor, Humidity Sensor
 Tools: Blynk app
 
-## Demo
-video: 
+## Demo 
+![Project Setup](https://github.com/user-attachments/assets/bf95b292-2c47-4c77-9028-01cce65c5592)
+![Output on Blynk IOT Web Dashboard](https://github.com/user-attachments/assets/c3d2909e-1d19-4289-963b-1c9e01df7da4)
+![Output on Blynk IOT app](https://github.com/user-attachments/assets/a2636707-10c6-406c-a78d-eafbe05ce29e)
+
+
+
+
