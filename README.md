@@ -13,7 +13,7 @@ Technologies: IoT, ESP8266 NodeMCU, Soil Moisture Sensor, Temperature Sensor, Hu
 Tools: Blynk app
 
 ## Demo 
-![Project Setup](https://github.com/user-attachments/assets/bf95b292-2c47-4c77-9028-01cce65c5592)
+![Project Setup](https://github.com/user-attachments/assets/f92b5ac7-3864-448b-bbe0-3fed490b401b)
 ![Output on Blynk IOT Web Dashboard](https://github.com/user-attachments/assets/c3d2909e-1d19-4289-963b-1c9e01df7da4)
 ![Output on Blynk IOT app](https://github.com/user-attachments/assets/a2636707-10c6-406c-a78d-eafbe05ce29e)
 
